@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "pthread.h": "c",
+        "ip.h": "c",
+        "cstdint": "cpp"
+    }
+}
